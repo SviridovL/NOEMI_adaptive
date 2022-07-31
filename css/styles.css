@@ -441,7 +441,7 @@ margin-left: 16px;
 .button {
   display: inline-block;
   border: none;
-  background-image: url(/svg/search.svg);
+  background-image: url(../svg/search.svg);
   background-position: center center;
   background-size: 18px 18px;
   background-repeat: no-repeat;
